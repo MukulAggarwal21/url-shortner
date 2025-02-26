@@ -11,4 +11,4 @@ function getUser(id){
 
 module.exports={
     setUser, getUser
-}
+} 

@@ -30,6 +30,4 @@ res.cookie("uuid" , sessionId);
     return res.redirect('/');
 }
 
-
-
 module.exports = {handleUserSignup, handleUserLogin};
