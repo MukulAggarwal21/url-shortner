@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "67bae006db5955b74c0bb447",
+    "name": "Mukul Aggarwal",
+    "email": "mukul210021aggarwal@gmail.com",
+    "password": "123456",
+    "createdAt": "2025-02-23T08:44:54.923Z",
+    "updatedAt": "2025-02-23T08:44:54.923Z",
+    "__v": 0
+  },
+  {
+    "_id": "67bf237c751da558951920d4",
+    "name": "Mukulll",
+    "email": "mukul.2226csit1115@kiet.edu",
+    "password": "qwerty",
+    "createdAt": "2025-02-26T14:21:48.123Z",
+    "updatedAt": "2025-02-26T14:21:48.123Z",
+    "__v": 0
+  }
+]

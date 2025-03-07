@@ -1,0 +1,64 @@
+[
+  {
+    "_id": "67c5794cee745d59ea7d6001",
+    "shortId": "yupmeyliY",
+    "redirectURL": "https://www.piyushgarg.dev",
+    "visitHistory": [
+      {
+        "timestamp": 1740994905064,
+        "_id": "67c57959ee745d59ea7d6003"
+      }
+    ],
+    "createdBy": "67bae006db5955b74c0bb447",
+    "createdAt": "2025-03-03T09:41:33.002Z",
+    "updatedAt": "2025-03-03T09:41:45.065Z",
+    "__v": 0
+  },
+  {
+    "_id": "67c5795dee745d59ea7d6005",
+    "shortId": "Wqys0CkbI",
+    "redirectURL": "https://www.piyushgarg.dev",
+    "visitHistory": [],
+    "createdBy": "67bae006db5955b74c0bb447",
+    "createdAt": "2025-03-03T09:41:49.957Z",
+    "updatedAt": "2025-03-03T09:41:49.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "67c5b1bd8623e6996550b4e5",
+    "shortId": "_btoEsrM9",
+    "redirectURL": "www.facebook.com",
+    "visitHistory": [],
+    "createdAt": "2025-03-03T13:42:21.668Z",
+    "updatedAt": "2025-03-03T13:42:21.668Z",
+    "__v": 0
+  },
+  {
+    "_id": "67c5b1c28623e6996550b4e7",
+    "shortId": "vzjJVmpxG",
+    "redirectURL": "www.facebook.com",
+    "visitHistory": [
+      {
+        "timestamp": 1741009354684,
+        "_id": "67c5b1ca8623e6996550b4e9"
+      }
+    ],
+    "createdAt": "2025-03-03T13:42:26.295Z",
+    "updatedAt": "2025-03-03T13:42:34.687Z",
+    "__v": 0
+  },
+  {
+    "_id": "67c5b46642b05d415473ec36",
+    "shortId": "pDaxF_upa",
+    "redirectURL": "https://www.piyushgarg.dev",
+    "visitHistory": [
+      {
+        "timestamp": 1741010032635,
+        "_id": "67c5b47042b05d415473ec38"
+      }
+    ],
+    "createdAt": "2025-03-03T13:53:42.572Z",
+    "updatedAt": "2025-03-03T13:53:52.643Z",
+    "__v": 0
+  }
+]
