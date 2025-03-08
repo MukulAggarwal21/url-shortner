@@ -1,4 +1,4 @@
-const { v4: uuidv4 } = require('uuid')
+// const { v4: uuidv4 } = require('uuid')
 const User = require('../models/users');
 const { setUser } = require('../service/auth')
 async function handleUserSignup(req, res) {
@@ -25,11 +25,14 @@ async function handleUserLogin(req, res) {
     }
 
     const token = setUser(user);
-    // res.cookie("uuid" , token );
-    // return res.redirect('/');
+ 
+    console.log("Generated Token:", token); // Log the generated token
 
     //ab response wala sikh rahe hain
-    return res.json({ token });
+    res.cookie("token", token);
+        console.log("Cookies after setting token:", req.cookies); // Log the cookies
+
+       return res.redirect('/');
 }
 
 module.exports = { handleUserSignup, handleUserLogin };
